@@ -1,3 +1,6 @@
 We will create a small basic network in the Cisco Packet Tracer tool, which will have a router, a switch, and two laptops.
+as shown in the following image
+![network](url)
 
 We will start by choosing the 2911 router.
+![]()
